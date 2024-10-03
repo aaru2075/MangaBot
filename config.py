@@ -1,10 +1,10 @@
 env_vars = {
   # Get From my.telegram.org
-  "API_HASH": "",
+  "API_HASH": "a1bcb2e0191095a0758e29280cf55933",
   # Get From my.telegram.org
-  "API_ID": "",
+  "API_ID": "23678651",
   #Get For @BotFather
-  "BOT_TOKEN": "",
+  "BOT_TOKEN": "8142342939:AAH3QFfhslgV2tYWceLUYSyBw6kj_f9_yaY",
   # Get For tembo.io
   "DATABASE_URL_PRIMARY": "",
   # Logs Channel Username Without @
